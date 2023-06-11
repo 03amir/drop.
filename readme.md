@@ -22,12 +22,13 @@ The "Drop" web app allows users to drag and drop items between containers. It pr
 - JavaScript
 
 ## Directory Structure
-
+``` 
 drop/
 ├── index.html
 ├── style.css
 ├── script.js
 └── README.md
+```
 
 - `index.html`: HTML file containing the structure of the web app.
 - `style.css`: CSS file containing the styles for the web app.
